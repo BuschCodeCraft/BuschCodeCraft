@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BuschCodeCraft  
+- 👋 Hi, I’m @BuschCodeCraft
 - 👀 Passionate about Shopify app development, E‑commerce solutions, and automating business workflows.  
 - 🌱 Currently deepening my skills in Shopify Polaris, Hydrogen, Remix.js/TypeScript, and AI-powered content automation.  
 - 💞️ Eager to collaborate on open‑source Shopify apps, custom storefronts, and plugins that optimize merchant workflows.  
